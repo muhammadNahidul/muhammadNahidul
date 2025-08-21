@@ -17,5 +17,9 @@
 ## 💼 Projects I’ve Built  
 🔹 **Finance Tracker App** – Track income, expenses & savings.  
 🔹 **Recipe App** – Upload, manage & share food recipes with images.
+---
+## 📈 GitHub Stats
+![Nahidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidulislam&show_icons=true&theme=radical)
 
+---
 📧 **Email:** nahidul678910@gmail.com
