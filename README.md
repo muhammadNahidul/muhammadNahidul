@@ -2,7 +2,7 @@
 
 🚀 Passionate **Python & Django Developer**  
 📊 Building apps like Finance Tracker, Recipe App, E-commerce, and Restaurant Management Systems  
-🌱 Currently learning: Advanced Django, Active Directory, DevOps basics  
+🌱 Currently learning: Advanced Django, Active Directory, DRF 
 
 ---
 
