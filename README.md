@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills  
 - **Backend:** Python, Django, REST API  
-- **Frontend:** HTML, CSS, TailwindCSS, Boostrap, Basic JavaScripts  
+- **Frontend:** HTML, CSS, TailwindCSS, Boostrap, JavaScripts(basic)  
 - **Database:** SQLite  
 - **Tools:** Git, GitHub, VS Code
   
